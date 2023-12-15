@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Google Beta</title>
-  <style>
+    <style>
     body {
       font-family: Arial, sans-serif;
     }
@@ -59,7 +59,7 @@
       text-align: center;
       margin-top: 20px;
     }
-  </style>
+    </style>
 </head>
 <body>
   <div class="logo">
