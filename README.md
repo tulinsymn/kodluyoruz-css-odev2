@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title>Google Beta</title>
-    <style>
+    
+  <style>
     body {
       font-family: Arial, sans-serif;
     }
